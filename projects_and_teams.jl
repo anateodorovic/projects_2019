@@ -2018,10 +2018,10 @@ projects = Project[
 			),
 		),
 		solution = Solution(
-			repo        = URL("https://github.com/X/Y"),
-			youtube     = URL(""),
-			release_bit = URL(""),
-			doc         = URL(""),
+			repo        = URL("https://github.com/OgnjenX/Tron-Slow-Cycle-Mastery"),
+			youtube     = URL("https://www.youtube.com/watch?v=BosFmeHZ02w"),
+			release_bit = URL("https://github.com/OgnjenX/Tron-Slow-Cycle-Mastery/blob/master/Tron.bit"),
+			doc         = URL("https://github.com/OgnjenX/Tron-Slow-Cycle-Mastery/blob/master/Documentation.docx"),
 		),
 	),
 	Project(
